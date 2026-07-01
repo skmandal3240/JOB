@@ -2,7 +2,7 @@
 
 **Start date: Thursday, July 10, 2026. Pace: 10 hrs/day, 6 days/week.** This replaces the earlier 3–4 hrs/day / 8-week version below — that one still stands as the reference pace if the 10 hrs/day ever isn't sustainable on a given week.
 
-At 10 hrs/day the whole curriculum compresses to **~4 weeks** instead of 8. Phases 0–2 still move fast since your CV already shows Python/JS and a Data Analytics certificate; the extra hours go almost entirely into DSA practice (your HackerRank ask) and the genuinely-new ground in Phases 4–5.
+At 10 hrs/day the whole curriculum compresses to **~4 weeks** instead of 8 — this is purely a function of the extra daily hours, not of skipping anything. Per your request, this is a genuine fresh start: Phase 0 gets done in full, start to finish, with no credit assumed from your CV or degree. The pace comes from hours invested, not from shortcuts.
 
 ## Accelerated schedule (10 hrs/day)
 

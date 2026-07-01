@@ -2,8 +2,10 @@
 
 This is the single source of truth for where you actually stand. Scores only move when there's evidence in this repo (a commit, a linked demo, a certificate) — self-reported progress with no artifact gets logged as **claimed, unverified** and doesn't move the number. That's intentional — it's what makes this tracker worth trusting.
 
-**Current overall score: 25 / 100**
+**Current overall score: 0 / 100**
 **Last updated: 2026-07-01**
+
+You asked to start completely fresh, with no credit assumed from your CV or degree — so the tracker is reset to zero. Your CV/certificate still matter for the *resume and application* (they're true, they stay there), but on this tracker every phase now needs its own real, in-repo checkpoint before it scores anything, same as if you were touching code for the first time.
 
 ---
 
@@ -11,14 +13,14 @@ This is the single source of truth for where you actually stand. Scores only mov
 
 | Phase / Skill Area | Weight | Score | Evidence | Status |
 |---|---|---|---|---|
-| Phase 0 — Programming Foundations | 5% | 4/5 | Prior CV: Python, JS, HTML/CSS, C coursework | Assumed from CV — do the checkpoint anyway to confirm |
-| Phase 1 — DSA | 10% | 4/10 | B.E. CSE coursework (unverified depth) | Not started in-repo |
-| Phase 2 — Python for Data/ML | 10% | 6/10 | Data Analytics certificate; Pandas/NumPy on CV | Checkpoint not yet in `/projects` |
-| Phase 3 — Classical ML | 15% | 8/15 | Credit Card Fraud Detection project (Scikit-learn/Keras) | Real, but not in this repo yet |
-| Phase 4 — Deep Learning / PyTorch | 20% | 2/20 | None shipped | Not started |
-| Phase 5 — LLM Fine-tuning / Indic NLP | 25% | 1/25 | AI OS project is a roadmap, not a trained model | Not started |
-| Phase 6 — Certifications, Portfolio, Distribution | 15% | 0/15 | None of the free certs completed yet; GitHub/HF/Kaggle presence unconfirmed | Not started |
-| **Total** | **100%** | **25/100** | | |
+| Phase 0 — Programming Foundations | 5% | 0/5 | None yet | Not started — starting fresh |
+| Phase 1 — DSA | 10% | 0/10 | None yet | Not started — starting fresh |
+| Phase 2 — Python for Data/ML | 10% | 0/10 | None yet | Not started — starting fresh |
+| Phase 3 — Classical ML | 15% | 0/15 | None yet | Not started — starting fresh |
+| Phase 4 — Deep Learning / PyTorch | 20% | 0/20 | None yet | Not started — starting fresh |
+| Phase 5 — LLM Fine-tuning / Indic NLP | 25% | 0/25 | None yet | Not started — starting fresh |
+| Phase 6 — Certifications, Portfolio, Distribution | 15% | 0/15 | None yet | Not started — starting fresh |
+| **Total** | **100%** | **0/100** | | |
 
 ---
 
@@ -27,6 +29,7 @@ This is the single source of truth for where you actually stand. Scores only mov
 | Date | Change | Reason |
 |---|---|---|
 | 2026-07-01 | Baseline set to 25/100 | Initial assessment from uploaded CV + certificate; no in-repo project evidence yet |
+| 2026-07-01 | Reset to 0/100 | User requested a genuine fresh start — no score credited for prior CV/degree/certificate claims; every phase now has to be earned in this repo from scratch, starting July 10 |
 
 ---
 

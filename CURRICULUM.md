@@ -8,14 +8,14 @@ Goal: go from wherever you actually are today to a skill level that top AI compa
 3. `SKILL_TRACKER.md` is the scorecard. It only moves when there's a commit, a link, or a certificate to point at.
 4. A recurring check-in re-reads this repo, updates the tracker, and hands you the next concrete task — see the note at the bottom.
 
-Your CV already shows real prior work (B.E. CSE, a fraud-detection ML project, frontend/React experience, a Data Analytics certificate) — Phase 0–2 should move fast for you. Go through them anyway; skipped fundamentals are exactly what show up as gaps in interviews.
+This is a genuine fresh start, per your request — no phase is skipped or fast-tracked because of your CV or degree. Every phase, starting with Phase 0, gets done and proven in this repo as if from zero. Your CV/certificate still stand as real, honest history for the resume itself — they just don't buy you a shortcut here.
 
 ---
 
-## Phase 0 — Programming Foundations
-- **Learn:** variables, control flow, functions, recursion, Git/GitHub basics.
-- **Free resources:** CS50x (Harvard, edX, free), freeCodeCamp.
-- **Checkpoint:** 20 solved problems (arrays, strings, hashmaps) pushed to `/projects/phase0-foundations/`.
+## Phase 0 — Programming Foundations (done fully, start to finish)
+- **Learn:** what a program is, variables, data types, control flow (if/loops), functions, basic recursion, Git/GitHub basics (clone, add, commit, push, branch).
+- **Free resources:** CS50x (Harvard, edX, free) — go through the actual introductory lectures/problem sets, not just a skim. freeCodeCamp's "Scientific Computing with Python" for extra reps.
+- **Checkpoint:** 20 solved problems (arrays, strings, hashmaps) pushed to `/projects/phase0-foundations/`, each with a one-line comment on what it does and why your approach works.
 
 ## Phase 1 — Data Structures & Algorithms
 - **Learn:** arrays, linked lists, trees, graphs, complexity analysis (Big-O).
