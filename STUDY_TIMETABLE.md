@@ -15,6 +15,28 @@ At 10 hrs/day the whole curriculum compresses to **~4 weeks** instead of 8 — t
 
 **Target: interview-ready (~70+/100) by ~August 6, 2026.**
 
+### Quick learning links, per week (full lists with more options in `CURRICULUM.md`)
+
+**Week 1 — Foundations, DSA, Data, Classical ML:**
+- Course: [CS50x](https://cs50.harvard.edu/x/) · [Kaggle Learn Python](https://www.kaggle.com/learn/python) · [Kaggle Learn Pandas](https://www.kaggle.com/learn/pandas) · [Kaggle Learn Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
+- YouTube: [CS50 (YouTube)](https://www.youtube.com/@cs50) · [NeetCode](https://www.youtube.com/@NeetCode) · [Abdul Bari — Algorithms](https://www.youtube.com/@abdul_bari) · [Corey Schafer — Pandas/NumPy](https://www.youtube.com/@coreyms) · [StatQuest — ML basics](https://www.youtube.com/@statquest) · [Krish Naik — ML playlist](https://www.youtube.com/@krishnaik06)
+- Practice: [HackerRank](https://www.hackerrank.com/) · [NeetCode 150](https://neetcode.io/practice)
+- Certs: [Anthropic Academy](https://anthropic.skilljar.com/) · [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) · [NVIDIA DLI](https://www.nvidia.com/en-us/training/online/) · [IBM SkillsBuild](https://skillsbuild.org/)
+
+**Week 2 — Deep Learning + PyTorch:**
+- Course: [fast.ai](https://course.fast.ai/) · [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
+- YouTube: [3Blue1Brown — Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (watch first, for intuition) · [PyTorch Full Course (freeCodeCamp/Daniel Bourke)](https://www.youtube.com/watch?v=Z_ikDlimN6A) · [fast.ai channel](https://www.youtube.com/@fastdotai)
+- Certs: [Kaggle Learn — Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+
+**Week 3 — Indic LoRA fine-tune + GPU benchmark:**
+- Course: [Hugging Face NLP Course (full)](https://huggingface.co/learn/nlp-course) · [AI4Bharat](https://ai4bharat.iitm.ac.in/) (datasets/models)
+- YouTube: [Andrej Karpathy — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) · [Karpathy — Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) · [Umar Jamil — LoRA/attention from scratch](https://www.youtube.com/@umarjamilai) · [Hugging Face official channel](https://www.youtube.com/@HuggingFace)
+
+**Week 4 — Speech/translation pipeline + portfolio:**
+- Platforms: [Hugging Face Spaces](https://huggingface.co/spaces) (host your demo) · [Vercel](https://vercel.com/) · [Supabase](https://supabase.com/)
+- YouTube: [freeCodeCamp — GitHub profile/README guides](https://www.youtube.com/@freecodecamp)
+- Showcase priority order and open-source PR targets: `SARVAM_AI_APPLICATION_STRATEGY.md` §6.
+
 ### Daily HackerRank practice — continuous, not just week 1
 You asked specifically for extra time to grind DSA on HackerRank so progress there is visible — this runs every single day of the 4 weeks (heavier in week 1, maintenance-level after), not just as a one-time checkpoint. **Share your HackerRank profile URL** and I'll add it to `SKILL_TRACKER.md`'s External Evidence and pull your public stats (problems solved, badges, domain scores) at each check-in as real evidence for the DSA/foundations rows — same rule as everything else here: it only counts once it's visible and linkable, not self-reported.
 

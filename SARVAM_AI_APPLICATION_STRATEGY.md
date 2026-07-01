@@ -25,26 +25,26 @@ Sarvam's core bets are **Indic-language LLMs, speech/translation, and efficient 
 These are quick (2–6 hours each) — treat them as a fast credibility layer, not the main event. The projects in Section 3 are what actually move the needle; certs just get you past resume filters and give LinkedIn-visible proof.
 
 **Anthropic (do these first — you already build with Claude daily, so this is the most "you" credential set):**
-1. **Anthropic Academy** (`anthropic.skilljar.com`) — official, free, certificate on completion, just needs an email. ~18 self-paced courses across three tracks: *AI Fluency*, *Product Training*, and *Developer Deep-Dives* (Claude API, prompt engineering, building agents, MCP server development). Do the Developer track courses — they map directly onto "AI engineer" skills.
-2. **DeepLearning.AI × Anthropic — "Claude Code: A Highly Agentic Coding Assistant"** (learn.deeplearning.ai, free, certificate) — since you already work inside Claude Code, this formalizes it.
+1. **[Anthropic Academy](https://anthropic.skilljar.com/)** — official, free, certificate on completion, just needs an email. ~18 self-paced courses across three tracks: *AI Fluency*, *Product Training*, and *Developer Deep-Dives* (Claude API, prompt engineering, building agents, MCP server development). Do the Developer track courses — they map directly onto "AI engineer" skills.
+2. **[DeepLearning.AI × Anthropic — "Claude Code: A Highly Agentic Coding Assistant"](https://www.deeplearning.ai/short-courses/)** (free, certificate) — since you already work inside Claude Code, this formalizes it.
 
 **Google:**
-3. **Google Cloud Skills Boost — "Introduction to Generative AI," "Introduction to Large Language Models," "Generative AI for Developers," "Introduction to Responsible AI"** — free, each gives a completion badge you can pin on LinkedIn.
+3. **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)** — "Introduction to Generative AI," "Introduction to Large Language Models," "Generative AI for Developers," "Introduction to Responsible AI" — free, each gives a completion badge you can pin on LinkedIn.
 
 **NVIDIA:**
-4. **NVIDIA DLI — "Generative AI Explained"** (free, certificate) — short, but an NVIDIA logo next to Sarvam's GPU/training-infra focus reads well.
+4. **[NVIDIA Deep Learning Institute — free course catalog](https://www.nvidia.com/en-us/training/online/)** — look for "Generative AI Explained" (free, certificate) — short, but an NVIDIA logo next to Sarvam's GPU/training-infra focus reads well.
 
 **Hugging Face:**
-5. **Hugging Face NLP Course** (huggingface.co/course, fully free) — hands-on with `transformers`, tokenizers, fine-tuning; also do the shorter **Audio Course** module if you build the speech/translation project below — same platform, same account.
+5. **[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)** (fully free) — hands-on with `transformers`, tokenizers, fine-tuning; also do the shorter **[Audio Course](https://huggingface.co/learn/audio-course)** if you build the speech/translation project below — same platform, same account.
 
 **IBM:**
-6. **IBM SkillsBuild — "Generative AI Fundamentals" + "Artificial Intelligence Fundamentals"** (free, Credly digital badge, LinkedIn-addable).
+6. **[IBM SkillsBuild](https://skillsbuild.org/)** — "Generative AI Fundamentals" + "Artificial Intelligence Fundamentals" (free, Credly digital badge, LinkedIn-addable).
 
 **DeepLearning.AI (general):**
-7. Any 1–2 short courses at learn.deeplearning.ai relevant to your projects (e.g., a fine-tuning or RAG short course) — all free, all give a certificate, take 1–2 hours each.
+7. Any 1–2 **[short courses at DeepLearning.AI](https://www.deeplearning.ai/short-courses/)** relevant to your projects (e.g., a fine-tuning or RAG short course) — all free, all give a certificate, take 1–2 hours each.
 
 **Kaggle (optional but well-regarded among ML practitioners specifically):**
-8. **Kaggle Learn — "Intro to Deep Learning" + "Intro to Machine Learning"** micro-courses — free, instant certificate, and a Kaggle profile is itself a credibility signal (see Section 6).
+8. **[Kaggle Learn](https://www.kaggle.com/learn)** — "Intro to Deep Learning" + "Intro to Machine Learning" micro-courses — free, instant certificate, and a Kaggle profile is itself a credibility signal (see Section 6).
 
 Skip anything that charges for the certificate itself (e.g., Coursera specializations where only the audit is free) unless a specific listing asks for it by name.
 
