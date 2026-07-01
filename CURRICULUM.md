@@ -21,6 +21,7 @@ This is a genuine fresh start, per your request — no phase is skipped or fast-
 **Courses:**
 - [CS50x — Harvard's Introduction to Computer Science](https://cs50.harvard.edu/x/) (edX, free) — the gold-standard fundamentals course, do the actual lectures + problem sets.
 - [freeCodeCamp — Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) (free, certificate on completion).
+- [Learn Git Branching](https://learngitbranching.js.org/) — free interactive, visual Git tool. Genuinely the best way to actually understand branches/merges/rebasing instead of memorizing commands; do this instead of just watching a Git video.
 
 **YouTube:**
 - [CS50 full 2026 lecture series (CS50 channel)](https://www.youtube.com/@cs50) — same course as above, in video form.

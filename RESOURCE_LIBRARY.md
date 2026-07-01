@@ -80,7 +80,23 @@ Reddit r/MachineLearning, r/learnmachinelearning, r/LocalLLaMA · Hugging Face C
 
 ---
 
-## 7. Drive bundles reference (all confirmed accessible to your account)
+## 7. From the video-history breakdown you shared
+
+You sent a categorized list of YouTube videos/channels (looked like a summary of a video/watch-history screenshot). Filtered against the actual Sarvam/AI-engineer path:
+
+**Worth keeping:**
+- [Learn Git Branching](https://learngitbranching.js.org/) — genuinely excellent, added directly into `CURRICULUM.md` Phase 0.
+- "What is NLP?" (IBM Technology) — fine as a 5-minute primer before Phase 5, not a substitute for the Hugging Face NLP Course.
+- "Generative AI Full Course" (freeCodeCamp) — reasonable alternative/supplement to the DeepLearning.AI short courses already in the plan if you prefer one long video over several short ones.
+- CodeWithHarry's Python-in-Hindi course — fine alternative to CS50 if Hindi explanations land better for you; don't do both, pick one.
+
+**Deliberately left out of the core plan** (not because they're bad, but because they're off the Sarvam/Indic-LLM specialization path and would dilute the 4-week sprint): Ethical Hacking full course, DevOps full course, full Web Development bootcamp, RPA explainer, C language tutorial, JavaScript tutorial. If you want any of these for a different goal, say so explicitly and I'll build a separate track — but stacking them onto the current sprint will slow down the thing you're actually trying to get (the Sarvam offer).
+
+**One flag, since you asked me to be honest about everything:** "Data Annotation Jobs For Beginners (Up to $100/Day) | ZERO Skills Needed" is the kind of title that's usually gig-work/affiliate clickbait, not a credible skill-building resource — I'd skip it rather than spend time on it.
+
+---
+
+## 8. Drive bundles reference (all confirmed accessible to your account)
 - [Ultimate DSA and Interview Mastery Bundle](https://drive.google.com/drive/folders/1IF_j5PCeRvlgkcm__dfXQX7IaaV1M0MB) — Blind 75, DSA notes, resume guide, misc language courses.
 - [Ultimate CompanyWise Interview Kit](https://drive.google.com/drive/folders/1hRXVU6WuiUGQ1mvnsjrck0XK53v8m3YG) — resume templates, most-asked interview questions.
 - [Placement Material (All Companies)](https://drive.google.com/drive/folders/1NC5wLHUMUye5_5zHzSgTgXDUdVmh43ZU) — Accenture/Capgemini/Cognizant/HCL/Infosys/etc. prep. **Note:** this targets traditional Indian IT services companies, a different track from the Sarvam/deep-tech AI path — useful as a safety-net application option, not the primary target.
