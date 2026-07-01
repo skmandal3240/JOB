@@ -67,3 +67,30 @@ Each project should be linked from your resume's GitHub and referenced by name i
 - Lead with the AI OS project and the specific fine-tuning/inference projects above — these are your strongest signal as a fresher.
 - Have a clear, rehearsed 60-second story connecting: CS degree → entrepreneurial ventures → deliberate pivot to deep AI skill-building → why Sarvam specifically (Indic LLMs, not "AI in general").
 - Be ready to whiteboard or talk through basics of transformer architecture, LoRA fine-tuning, and why quantization matters for inference cost — these are the concrete technical bars for ML Engineer interviews at this class of company.
+
+---
+
+## 5. Honest Readiness Score (Today) & Gap-Closing Plan
+
+Scored against Sarvam's actual bar (they hire ML engineers who often already have strong ML fundamentals, sometimes research/publication background) — not against a generic "AI enthusiast" bar. No inflation, no placeholders counted as done.
+
+| Category | Weight | Where you are today | Score |
+|---|---|---|---|
+| CS fundamentals (degree, coding) | 15% | B.E. CSE, CGPA 7.22 — solid baseline, unverified DSA/systems depth | 8/15 |
+| Classical ML hands-on | 15% | One real project (fraud detection: Scikit-learn/Keras) | 8/15 |
+| Deep learning / Transformers / LLM hands-on | 30% | None shipped yet — AI OS project is a roadmap/product layer, not a trained/fine-tuned model | 3/30 |
+| Indic language / NLP-specific work | 15% | None yet | 0/15 |
+| GPU / training infra hands-on | 10% | Research stage only, no completed training run | 2/10 |
+| Certifications (ML/AI-relevant) | 5% | 1 general Data Analytics cert, not ML/LLM-specific | 2/5 |
+| Public proof (GitHub, demos, writeups) | 10% | Unconfirmed/minimal public evidence | 2/10 |
+| **Total** | **100%** | | **~25/100** |
+
+**What this means:** ~25/100 is normal and expected for a fresher who hasn't yet built an LLM-specific project — it is not a verdict on potential, it's a snapshot of evidence that currently exists. Sarvam's ML Engineer bar for direct hire is roughly 70+ on this scale. The gap is closable and the plan to close it is already above (Sections 2–3): the 3 certifications and, more importantly, the 3 hands-on projects (LoRA fine-tune, GPU inference benchmark, speech/translation pipeline) are what move the "Deep learning/LLM," "Indic NLP," and "GPU infra" rows — the three heaviest-weighted, currently-lowest categories.
+
+**Realistic timeline to interview-ready (~70/100), working consistently:**
+- **Weeks 1–3:** Hugging Face NLP course + first LoRA fine-tune project shipped to GitHub with a README and eval numbers → moves Deep Learning/LLM row from 3→15, Public Proof 2→6.
+- **Weeks 4–6:** Local/rented GPU benchmarking project + DeepLearning.AI GenAI course → GPU Infra 2→7, Certifications 2→4.
+- **Weeks 7–9:** Speech/translation mini-pipeline for an Indian language (ties in Indic NLP directly) → Indic NLP 0→10, Deep Learning/LLM 15→22.
+- **Weeks 10–12:** Polish GitHub profile, write short technical posts/READMEs for all 3 projects, mock interview on transformer/LoRA/quantization basics → Public Proof 6→9, CS Fundamentals 8→11.
+
+Projected score after ~12 focused weeks: **~70/100** — genuinely competitive for an entry-level ML/AI role at a company like Sarvam. Nothing on this path requires claiming a skill before you've actually built with it — the score only moves when the project exists.

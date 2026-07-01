@@ -7,7 +7,7 @@
 
 ## Summary
 
-Computer Science engineering graduate with a builder's mindset and an entrepreneurial track record. Actively developing an AI OS project on top of Large Language Models, researching local GPU infrastructure for model training, and collaborating on applied AI builds. Seeking a technical role at **Sarvam AI** to work at the frontier of generative AI and Indic-language models, and to learn how large-scale AI products are engineered and shipped.
+Computer Science engineering graduate building hands-on AI/ML projects: an experimental AI OS layer on top of Large Language Models, applied ML models (fraud detection), and collaborative AI builds. Currently researching local GPU requirements for model training/inference. Seeking a technical role at **Sarvam AI** to go deep on generative AI and Indic-language models.
 
 ---
 
@@ -23,11 +23,12 @@ CGPA: 7.22
 | Category | Skills |
 |---|---|
 | Languages | Python, C, JavaScript, HTML, CSS |
-| AI / ML | Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Prompt Engineering, LLM fundamentals, [ADDITIONAL_ML_SKILLS] |
-| AI Dev Tooling | Claude (Agentic development), GitHub Copilot workflows, [OTHER_AI_TOOLS] |
-| Platforms / Infra | Git, GitHub, Supabase, Vercel, Linux, AWS, VS Code |
+| ML Libraries | Pandas, NumPy, Scikit-learn, TensorFlow/Keras |
+| AI-Assisted Dev | Claude, GitHub |
+| Platforms / Infra | Git, Supabase, Vercel, Linux, AWS, VS Code |
 | Design | Figma |
-| Languages (Human) | Hindi, English, [ADD_OTHER_LANGUAGES_IF_ANY] |
+
+*(This table lists only tools I have actually used hands-on. As I complete the certifications/projects in my learning plan — LLM fine-tuning, PyTorch, Hugging Face — I'll add them here, not before.)*
 
 ---
 
@@ -61,15 +62,9 @@ Duration: October 2025 – April 2026 &nbsp;|&nbsp; Grade: A &nbsp;|&nbsp; Certi
 
 ---
 
-## Leadership & Entrepreneurial Initiatives
-
-- **Startup Hub Operations, Patna** — Managed day-to-day business operations for a local startup hub, coordinating [HUB_OPERATIONS_DETAILS].
-- **AstroVeda** *(Space-Tech Venture, Concept Stage)* — Authored the business model and product roadmap for a space technology startup concept; [ASTROVEDA_DETAILS].
-- **SpiceGlow India** *(Export Venture, Concept Stage)* — Designed the business model and go-to-market roadmap for a global spice export business; [SPICEGLOW_DETAILS].
-
----
-
 ## Additional Information
 
 - Actively building in public on GitHub; comfortable across the modern AI-assisted dev stack (Git, Supabase, Vercel, Claude).
 - [ADD_ANY_HACKATHONS_OR_COMMUNITY_INVOLVEMENT_IF_ANY]
+
+*Note: Business/venture work (startup hub operations, AstroVeda, SpiceGlow India) is intentionally left off this resume to keep it fully technical for an ML/AI role — that background is repositioned as an interview talking point in `SARVAM_AI_APPLICATION_STRATEGY.md`, not diluted into the CV itself.*
