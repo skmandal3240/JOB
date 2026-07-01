@@ -124,4 +124,4 @@ This is a genuine fresh start, per your request — no phase is skipped or fast-
 ---
 
 ## Rule for this repo
-Every phase checkpoint lives in `/projects/`. If it's not in the repo, it isn't scored yet — that's what keeps the tracker honest. Day-by-day timing for all of the above: `STUDY_TIMETABLE.md`.
+Every phase checkpoint lives in `/projects/`. If it's not in the repo, it isn't scored yet — that's what keeps the tracker honest. Day-by-day timing for all of the above: `STUDY_TIMETABLE.md`. Extra YouTube channels, GitHub repos to star, stretch project ideas, and your Google Drive bundles (DSA/interview kits): `RESOURCE_LIBRARY.md`.
