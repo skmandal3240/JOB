@@ -41,6 +41,9 @@ You asked specifically for extra time to grind DSA on HackerRank so progress the
 4. **~30 min** — commit and push whatever you did today, even if unfinished, and drop any new profile links (HackerRank, Kaggle, HF) into `SKILL_TRACKER.md`.
 5. **1 rest day/week (Sunday suggested)** — a 4-week sprint at 10 hrs/day only works if you don't burn out on week 2.
 
+## Calendar sync
+All 24 study-day blocks (10am–8pm IST) and 4 rest days for Jul 10 – Aug 6, 2026 are on your Google Calendar (skmandal3240@gmail.com), each with a popup reminder 12 hrs and 30 min before. This syncs automatically to any device signed into that Google account — phone, laptop, tablet — via the native Google Calendar app; nothing extra needs installing.
+
 ## How this connects to the rest of the system
 - Progress is scored in `SKILL_TRACKER.md` against whatever's actually in `/projects/` and linked external profiles (HackerRank, Kaggle, Hugging Face, GitHub) — not against this timetable. Running ahead or behind is fine; what's committed and linked is what counts.
 - The recurring check-in (every 3 days) reads the repo, checks any linked profiles, and tells you where you stand against this timetable and what to do next.
