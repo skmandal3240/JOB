@@ -40,7 +40,11 @@ This is the single source of truth for where you actually stand. Scores only mov
 
 ## External Evidence (fill in as you go)
 - GitHub profile: [ADD_LINK]
+- HackerRank profile: [ADD_LINK] — primary evidence source for Phase 0/1 (Foundations + DSA), checked at every check-in from July 10 onward
 - Hugging Face profile: [ADD_LINK]
 - Kaggle profile: [ADD_LINK]
 - Portfolio site: [ADD_LINK]
 - Certificates completed so far: [LIST]
+
+## Study plan reference
+Full week-by-week schedule (10 hrs/day, starting July 10, 2026): see `STUDY_TIMETABLE.md`.
