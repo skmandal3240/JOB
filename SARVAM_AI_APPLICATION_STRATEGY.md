@@ -108,32 +108,13 @@ Scored against Sarvam's actual bar (they hire ML engineers who often already hav
 
 **What this means:** ~25/100 is normal and expected for a fresher who hasn't yet built an LLM-specific project — it is not a verdict on potential, it's a snapshot of evidence that currently exists. Sarvam's ML Engineer bar for direct hire is roughly 70+ on this scale. The gap is closable and the plan to close it is already above (Sections 2–3): the 3 certifications and, more importantly, the 3 hands-on projects (LoRA fine-tune, GPU inference benchmark, speech/translation pipeline) are what move the "Deep learning/LLM," "Indic NLP," and "GPU infra" rows — the three heaviest-weighted, currently-lowest categories.
 
-**Realistic timeline to interview-ready (~70/100), working consistently:**
-- **Weeks 1–3:** Hugging Face NLP course + first LoRA fine-tune project shipped to GitHub with a README and eval numbers → moves Deep Learning/LLM row from 3→15, Public Proof 2→6.
-- **Weeks 4–6:** Local/rented GPU benchmarking project + DeepLearning.AI GenAI course → GPU Infra 2→7, Certifications 2→4.
-- **Weeks 7–9:** Speech/translation mini-pipeline for an Indian language (ties in Indic NLP directly) → Indic NLP 0→10, Deep Learning/LLM 15→22.
-- **Weeks 10–12:** Polish GitHub profile, write short technical posts/READMEs for all 3 projects, mock interview on transformer/LoRA/quantization basics → Public Proof 6→9, CS Fundamentals 8→11.
+Projected score after completing the full plan: **~70+/100** — genuinely competitive for an entry-level ML/AI role at a company like Sarvam. Nothing on this path requires claiming a skill before you've actually built with it — the score only moves when the project exists.
 
-Projected score after ~12 focused weeks: **~70/100** — genuinely competitive for an entry-level ML/AI role at a company like Sarvam. Nothing on this path requires claiming a skill before you've actually built with it — the score only moves when the project exists.
+**The authoritative week-by-week schedule (including Phase 0–4 fundamentals, not just the Section 3 projects) now lives in `STUDY_TIMETABLE.md`** — that file is the single source of truth for pacing; treat any timeline mentioned elsewhere in this doc as superseded by it.
 
 ---
 
-## 6. Compressed Timeline (Faster Path)
-
-Certs alone are only a few hours each, so they don't need their own weeks — stack them in parallel with project work instead of doing them sequentially. This compresses Section 5's 12 weeks to **~6 weeks of intense, daily focus** (roughly double the daily hours of the original plan).
-
-- **Week 1:** Knock out all 8 certifications from Section 2 in the background (a couple hours/day) while starting Project 1 (LoRA fine-tune) in parallel — pick the model/dataset, get a training run working end-to-end even if quality is rough.
-- **Week 2:** Finish Project 1 properly — clean eval numbers, README, demo video/GIF, push to GitHub *and* upload the fine-tuned model + a live demo Space to Hugging Face Hub.
-- **Week 3:** Project 2 (GPU inference benchmarking) — set up, run quantized models, collect latency/throughput numbers, publish writeup.
-- **Week 4:** Project 3 (Indic speech/translation pipeline) — build the pipeline, deploy the demo on Vercel, connect it to your Supabase backend.
-- **Week 5:** Polish everything simultaneously — GitHub profile README, Hugging Face profile, one short technical blog post per project, all cert badges added to LinkedIn.
-- **Week 6:** Apply, and start reaching out directly (Section 6 below) while continuing to iterate on whichever project got the weakest results.
-
-This is aggressive but realistic if you're treating it like a full-time push. The score-moving logic from Section 5 is unchanged — only the calendar is compressed, not the actual bar you need to clear.
-
----
-
-## 7. Where to Showcase Your Skills (So the Right People Notice)
+## 6. Where to Showcase Your Skills (So the Right People Notice)
 
 Certificates prove you *studied*. These prove you *can build* — which is what makes a hiring manager at an AI company actually want you:
 
