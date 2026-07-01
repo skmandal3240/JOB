@@ -20,12 +20,33 @@ Sarvam's open roles skew toward ML Engineering (Foundational Models, Training In
 
 Sarvam's core bets are **Indic-language LLMs, speech/translation, and efficient training/inference**. Certifications should prove you can operate in that stack, not just "AI in general."
 
-### Free, respected, fast certifications (do these while applying)
-1. **DeepLearning.AI — "Generative AI with LLMs" (Coursera, audit free)** — covers transformer fundamentals, fine-tuning, RLHF; directly maps to Sarvam's core business.
-2. **Hugging Face NLP Course (huggingface.co/course, fully free)** — hands-on with `transformers`, tokenizers, fine-tuning on custom datasets; produces a portfolio-ready skill set.
-3. **Google Cloud "Introduction to Generative AI" + "Generative AI for Developers" (free tier on Google Cloud Skills Boost)** — short, credentialed, adds a recognizable logo next to your Data Analytics certificate.
+### Free certifications — full list (real, verified, no paywalled ones included)
 
-Optional stretch (still free): **fast.ai "Practical Deep Learning for Coders"** if you want the strongest hands-on PyTorch grounding.
+These are quick (2–6 hours each) — treat them as a fast credibility layer, not the main event. The projects in Section 3 are what actually move the needle; certs just get you past resume filters and give LinkedIn-visible proof.
+
+**Anthropic (do these first — you already build with Claude daily, so this is the most "you" credential set):**
+1. **Anthropic Academy** (`anthropic.skilljar.com`) — official, free, certificate on completion, just needs an email. ~18 self-paced courses across three tracks: *AI Fluency*, *Product Training*, and *Developer Deep-Dives* (Claude API, prompt engineering, building agents, MCP server development). Do the Developer track courses — they map directly onto "AI engineer" skills.
+2. **DeepLearning.AI × Anthropic — "Claude Code: A Highly Agentic Coding Assistant"** (learn.deeplearning.ai, free, certificate) — since you already work inside Claude Code, this formalizes it.
+
+**Google:**
+3. **Google Cloud Skills Boost — "Introduction to Generative AI," "Introduction to Large Language Models," "Generative AI for Developers," "Introduction to Responsible AI"** — free, each gives a completion badge you can pin on LinkedIn.
+
+**NVIDIA:**
+4. **NVIDIA DLI — "Generative AI Explained"** (free, certificate) — short, but an NVIDIA logo next to Sarvam's GPU/training-infra focus reads well.
+
+**Hugging Face:**
+5. **Hugging Face NLP Course** (huggingface.co/course, fully free) — hands-on with `transformers`, tokenizers, fine-tuning; also do the shorter **Audio Course** module if you build the speech/translation project below — same platform, same account.
+
+**IBM:**
+6. **IBM SkillsBuild — "Generative AI Fundamentals" + "Artificial Intelligence Fundamentals"** (free, Credly digital badge, LinkedIn-addable).
+
+**DeepLearning.AI (general):**
+7. Any 1–2 short courses at learn.deeplearning.ai relevant to your projects (e.g., a fine-tuning or RAG short course) — all free, all give a certificate, take 1–2 hours each.
+
+**Kaggle (optional but well-regarded among ML practitioners specifically):**
+8. **Kaggle Learn — "Intro to Deep Learning" + "Intro to Machine Learning"** micro-courses — free, instant certificate, and a Kaggle profile is itself a credibility signal (see Section 6).
+
+Skip anything that charges for the certificate itself (e.g., Coursera specializations where only the audit is free) unless a specific listing asks for it by name.
 
 ### Tech stack to master
 - **PyTorch** (Sarvam's stack is PyTorch-based) — move past Scikit-learn/Keras-only comfort.
@@ -94,3 +115,35 @@ Scored against Sarvam's actual bar (they hire ML engineers who often already hav
 - **Weeks 10–12:** Polish GitHub profile, write short technical posts/READMEs for all 3 projects, mock interview on transformer/LoRA/quantization basics → Public Proof 6→9, CS Fundamentals 8→11.
 
 Projected score after ~12 focused weeks: **~70/100** — genuinely competitive for an entry-level ML/AI role at a company like Sarvam. Nothing on this path requires claiming a skill before you've actually built with it — the score only moves when the project exists.
+
+---
+
+## 6. Compressed Timeline (Faster Path)
+
+Certs alone are only a few hours each, so they don't need their own weeks — stack them in parallel with project work instead of doing them sequentially. This compresses Section 5's 12 weeks to **~6 weeks of intense, daily focus** (roughly double the daily hours of the original plan).
+
+- **Week 1:** Knock out all 8 certifications from Section 2 in the background (a couple hours/day) while starting Project 1 (LoRA fine-tune) in parallel — pick the model/dataset, get a training run working end-to-end even if quality is rough.
+- **Week 2:** Finish Project 1 properly — clean eval numbers, README, demo video/GIF, push to GitHub *and* upload the fine-tuned model + a live demo Space to Hugging Face Hub.
+- **Week 3:** Project 2 (GPU inference benchmarking) — set up, run quantized models, collect latency/throughput numbers, publish writeup.
+- **Week 4:** Project 3 (Indic speech/translation pipeline) — build the pipeline, deploy the demo on Vercel, connect it to your Supabase backend.
+- **Week 5:** Polish everything simultaneously — GitHub profile README, Hugging Face profile, one short technical blog post per project, all cert badges added to LinkedIn.
+- **Week 6:** Apply, and start reaching out directly (Section 6 below) while continuing to iterate on whichever project got the weakest results.
+
+This is aggressive but realistic if you're treating it like a full-time push. The score-moving logic from Section 5 is unchanged — only the calendar is compressed, not the actual bar you need to clear.
+
+---
+
+## 7. Where to Showcase Your Skills (So the Right People Notice)
+
+Certificates prove you *studied*. These prove you *can build* — which is what makes a hiring manager at an AI company actually want you:
+
+1. **GitHub (primary)** — pin your 3 projects. Each repo needs: a clear README with the problem, approach, results (numbers, not adjectives), and a demo GIF/video at the top. A recruiter should understand the project in 15 seconds of scrolling.
+2. **Hugging Face Hub (this is the one that gets AI companies' attention specifically)** — upload your fine-tuned model to the Model Hub and build a live, clickable demo on **Hugging Face Spaces** (free, Gradio/Streamlit). This is the single highest-signal place to exist for a company like Sarvam — their own team lives on HF.
+3. **Kaggle profile** — if you do the Kaggle Learn courses, also enter one beginner-friendly competition or publish a notebook; Kaggle rank/notebooks are a known credibility shortcut among ML hiring managers.
+4. **A personal portfolio site** (deploy on Vercel, which you already use) — one page linking your GitHub, HF Spaces, Kaggle, LinkedIn, and a one-line pitch. This is what you put in the "portfolio URL" field on every application.
+5. **LinkedIn** — post short build-in-public updates as you finish each project/cert (not just the badge — one sentence on what you built and a link). This is how recruiters and even Sarvam engineers stumble onto you organically.
+6. **X/Twitter AI community** — Sarvam's own engineers and founders are active there; a genuine, specific reply or post about your Indic fine-tuning project (tagging relevant accounts, not spamming) can get more attention than a cold application.
+7. **Open-source contributions to AI4Bharat or Hugging Face `transformers`** — even one small merged PR into an org whose mission overlaps with Sarvam's (Indic NLP, model tooling) is a stronger signal than any certificate on this list. This is the highest-effort, highest-payoff item here.
+8. **A short technical blog post per project** (dev.to, Hashnode, or your own site) — walks a reader through what you built and why; doubles as interview prep since you'll already have rehearsed the explanation.
+
+Priority order if time is short: **GitHub → Hugging Face Hub/Spaces → portfolio site → LinkedIn posts → open-source PR → Kaggle → blog posts.**
