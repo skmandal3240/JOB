@@ -63,6 +63,9 @@ You asked specifically for extra time to grind DSA on HackerRank so progress the
 4. **~30 min** — commit and push whatever you did today, even if unfinished, and drop any new profile links (HackerRank, Kaggle, HF) into `SKILL_TRACKER.md`.
 5. **1 rest day/week (Sunday suggested)** — a 4-week sprint at 10 hrs/day only works if you don't burn out on week 2.
 
+## Hour-by-hour daily schedule
+Every event of the day — bath, meals, breaks, and each of the 5 study blocks named individually with its own link — is in `DAILY_TIMETABLE.md`. This is the file to actually follow minute-to-minute; this file stays the week-level overview.
+
 ## Calendar sync
 All 24 study-day blocks (10am–8pm IST) and 4 rest days for Jul 10 – Aug 6, 2026 are on your Google Calendar (skmandal3240@gmail.com), each with a popup reminder 12 hrs and 30 min before. This syncs automatically to any device signed into that Google account — phone, laptop, tablet — via the native Google Calendar app; nothing extra needs installing.
 
